@@ -3,6 +3,7 @@ aaaaaaaaaaaaa
 +for diff compare.
 Today is very good
 Today is very good
+edit by master	
 Today is very good
 Today is very good
 Today is very good
@@ -12,4 +13,4 @@ edit on featrue
 edit on featrue
 edit on featrue
 edit on featrue
-edit on featrue
+dit on featrue
